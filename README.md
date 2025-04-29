@@ -6,7 +6,8 @@
 | ----------------- | ------------------------------------------------------------------------------------------------------------------------------ |
 | GitHub Repository | [Final Project Repository](https://github.com/Hailey-cloud/Final-Project-Machine-Learning)                                    |
 | Project Board     | [Project Management Board](#)                                                                                                  |
-| Presentation Link | [Project Presentation](#)                                                                                                      |
+| Presentation Link | [Project Presentation](https://docs.google.com/presentation/d/1FGu-z1pKeD6JI5hOUUtb-pCAlx_RpzwkuZMOmz5WCnE/edit?slide=id.p#slide=id.p)
+|
 
 ---
 
