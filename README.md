@@ -70,6 +70,8 @@
 
 ## 🧑‍💻 Team Members
 
+![Image](https://github.com/user-attachments/assets/07110467-dbc7-439f-b381-da386eb1864b)
+
 - [Name 1] — Data cleaning / EDA  
 - [Name 2] — Model development / evaluation  
 - [Name 3] — Feature engineering / documentation  
