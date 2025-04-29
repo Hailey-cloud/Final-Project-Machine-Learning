@@ -52,7 +52,6 @@
 
 | 📌 Task Rules    | Description                                                                                                  |
 | ---------------- | ------------------------------------------------------------------------------------------------------------ |
-| 🎯 Moving Tasks  | Move tasks through `TODO` → `IN PROGRESS` → `DONE` columns as work progresses                                 |
 | 🔀 Branch Names  | Use task-related branch names for better traceability                                                        |
 | 💬 Communication | Regular updates via comments on issues or PRs keeps the whole team in sync                                   |
 
@@ -64,17 +63,19 @@
 - pandas, numpy, scikit-learn, matplotlib, seaborn
 - Jupyter Notebook
 - Git / GitHub
-- (Optional: XGBoost, LightGBM, Streamlit)
+- XGBoost, LightGBM
 
 ---
 
 ## 🧑‍💻 Team Members
 
-![Image](https://github.com/user-attachments/assets/07110467-dbc7-439f-b381-da386eb1864b)
-
 - [Name 1] — Data cleaning / EDA  
 - [Name 2] — Model development / evaluation  
 - [Name 3] — Feature engineering / documentation  
+
+![Image](https://github.com/user-attachments/assets/07110467-dbc7-439f-b381-da386eb1864b)
+
+
 
 ---
 
