@@ -55,20 +55,14 @@
 
 ## 💻 Setup Option
 
-- 1. Clone the Repository
-     git clone https://github.com/Hailey-cloud/Final-Project-Machine-Learning.git
-     cd Final-Project-Machine-Learning
-     
-- 2. Create and Activate Virtual Environment (Optional but Recommended)
-     python -m venv venv
-     source venv/bin/activate        # Windows: venv\Scripts\activate
+## 💻 Setup Instructions
 
-- 3. Install Dependencies
-     pip install -r requirements.txt
-
-- 4. Run the Notebook
-     jupyter notebook Store_Sales_ML5.ipynb
-     
+| Step | Description |
+|------|-------------|
+| 1️⃣ Clone Repository | `git clone https://github.com/Hailey-cloud/Final-Project-Machine-Learning.git`<br>`cd Final-Project-Machine-Learning` |
+| 2️⃣ Create Virtual Environment | `python -m venv venv`<br>`source venv/bin/activate`<br>💡 *Windows: `venv\Scripts\activate`* |
+| 3️⃣ Install Dependencies | `pip install -r requirements.txt` |
+| 4️⃣ Run Notebook | `jupyter notebook Store_Sales_ML5.ipynb` |
 
 
 ---
